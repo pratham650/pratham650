@@ -20,10 +20,6 @@ Building secure, scalable and enterprise-grade backend applications with Java an
 <a href="https://github.com/pratham650">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-0A66C2?style=for-the-badge"/>
-</a>
 </p>
 
 ---
@@ -35,7 +31,7 @@ Building secure, scalable and enterprise-grade backend applications with Java an
 - 🔐 Passionate about Backend Development, Security and Clean Architecture
 - 🚀 Building enterprise applications using Java & Spring Boot
 - 🌱 Currently learning Docker, JUnit, CI/CD and System Design
-- 🎯 Goal: Land my first Java Developer role and build scalable software that solves real-world problems
+- 🎯 🎯 Focused on designing secure, scalable and maintainable backend applications using modern Java technologies.
 
 ---
 
@@ -43,7 +39,7 @@ Building secure, scalable and enterprise-grade backend applications with Java an
 
 - 📄 Published Research Paper on AI-based Sign Language Translation
 - 🤟 Developed a Machine Learning based Sign Language Translator
-- 🏢 Building an Enterprise Employee Management System
+- 🏢 Developing an Enterprise Employee Management System
 - 💼 AI/ML Developer Intern at SunFibo Technologies
 - 🎓 Bachelor of Engineering (Computer Engineering)
 
@@ -85,7 +81,7 @@ Postman • Swagger/OpenAPI • Spring Tool Suite (STS)
 
 ## 🏢 Employee Management System
 
-Enterprise-level Employee Management System built using Java, Spring Boot, Spring Security, Angular and MySQL.
+A scalable Employee Management System designed using Spring Boot, Spring Security and Angular, following enterprise backend development practices.
 
 ### Key Features
 
@@ -105,7 +101,7 @@ Enterprise-level Employee Management System built using Java, Spring Boot, Sprin
 
 ## 🤟 Sign Language Translator
 
-AI-powered Sign Language Translator built using Machine Learning, Python, React and Node.js.
+A machine learning-based accessibility solution that translates sign language gestures into text, improving communication for hearing-impaired users.
 
 ### Highlights
 
@@ -149,6 +145,25 @@ AI-powered Sign Language Translator built using Machine Learning, Python, React 
 
 ---
 
+# 💡 Engineering Principles
+
+- Clean Code
+- Security First
+- RESTful API Design
+- Scalable Architecture
+- Continuous Learning
+- Problem Solving
+
+
+## 📌 Pinned Projects
+
+🏢 Employee Management System
+
+🤟 Sign Language Translator
+
+🌐 Portfolio Website
+
+
 # 🤝 Let's Connect
 
 <p align="center">
@@ -159,10 +174,6 @@ AI-powered Sign Language Translator built using Machine Learning, Python, React 
 
 <a href="mailto:rprathamesh387@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-success?style=for-the-badge"/>
 </a>
 
 </p>
